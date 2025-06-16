@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+streamlit
+requests
+
+# Add any additional libraries you need here
